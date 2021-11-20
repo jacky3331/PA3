@@ -1,1 +1,2 @@
-In this project, I created a perceptron classifier algorithm to classify the topics of different online posts.
+#### Categorizing News Articles with Perceptrons ####
+In this assignemnt, I created a linear classifier with perceptrons and gradient descent to categorize different topics.
